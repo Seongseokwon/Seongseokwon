@@ -4,9 +4,9 @@
 
 
 
-
-<h3 align='center'>✔️ Tech Stack ✔️</h3> 
-<p align="center">
+<div align=center>
+<h3>✔️ Tech Stack ✔️</h3> 
+<p>
   <img src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=Apple&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />&nbsp
 <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=61dafb" />&nbsp
@@ -18,3 +18,4 @@
 
 
 ![Seokwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongseokwon&show_icons=true)
+</div>
