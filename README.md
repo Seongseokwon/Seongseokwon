@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+
 ### HI 👋 , I'm Seokwon 
+
+
 
 <h3 align='center'>✔️ Tech Stack ✔️</h3> 
 <p align="center">
