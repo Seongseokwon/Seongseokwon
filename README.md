@@ -17,5 +17,5 @@
 <hr>
 
 
-![Seokwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongseokwon&show_icons=true)
+![Seokwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongseokwon&show_icons=true&theme=cobalt)
 </div>
