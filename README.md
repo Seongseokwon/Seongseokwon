@@ -8,7 +8,7 @@
 <h3>✔️ Tech Stack ✔️</h3> 
 <article>
   <section>
-    <img src="https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Apple&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=white" />&nbsp
   </section>
 <img src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=Apple&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />&nbsp
