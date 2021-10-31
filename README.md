@@ -8,19 +8,21 @@
 <h3>✔️ Tech Stack ✔️</h3> 
 <article>
   <section>
+    <b>Main</b> 
     <img src="https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=red" />&nbsp
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=blue" />&nbsp
   </section>
  
   <section>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />&nbsp
+    <span>Sub</span>
     <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=61dafb" />&nbsp
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />&nbsp
   </section>
+  
   <section>
     <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp
-  
+    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp
   </section>
 
 </article>
