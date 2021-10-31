@@ -8,13 +8,13 @@
 <h3>✔️ Tech Stack ✔️</h3> 
 <article>
   <section>
-    <b>Main</b> 
+    <b>Main</b> <br/> 
     <img src="https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=red" />&nbsp
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=blue" />&nbsp
   </section>
  
   <section>
-    <span>Sub</span>
+    <span>Sub</span> <br/> 
     <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=61dafb" />&nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />&nbsp
   </section>
