@@ -6,13 +6,6 @@
 
 <div align=center>
 <h3>✔️ Tech Stack ✔️</h3> 
-<article>
-  <section>
-    <b>Main</b> <br/> 
-    <img src="https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=red" />&nbsp
-    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=blue" />&nbsp
-  </section>
-</article>
 <hr>
 
 
